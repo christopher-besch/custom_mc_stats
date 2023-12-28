@@ -1,5 +1,5 @@
 {
-    "id": "shriekers_mined",
+    "id": "shrieker_mined",
     "unit": "int",
     "reader": {
         "$type": "int",
