@@ -1,0 +1,11 @@
+{
+    "id": "shriekers_mined",
+    "unit": "int",
+    "reader": {
+        "$type": "int",
+        "path": [
+            "minecraft:mined",
+            "minecraft:sculk_shrieker"
+        ]
+    }
+}
