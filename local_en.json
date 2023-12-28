@@ -1,8 +1,8 @@
 {
     "award.players_killed.desc": "Players killed",
     "award.players_killed.title": "PvP Master",
-    "award.killed_by_players.desc": "Times killed by Players",
-    "award.killed_by_players.title": "Fragile",
+    "award.killed_by_player.desc": "Times killed by Players",
+    "award.killed_by_player.title": "Fragile",
     "award.sneak_time.desc": "Time sneaked",
     "award.sneak_time.title": "Sneaky Boy",
     "award.shrieker_mined.desc": "Sculk-Shrieker mined",
@@ -13,8 +13,8 @@
     "award.saplings_planted.title": "Gardener",
     "award.templates_collected.desc": "Smithing Templates picked up",
     "award.templates_collected.title": "Armor Artist",
-    "award.bee_nests_minded.desc": "Bee Nests mined",
-    "award.bee_nests_minded.title": "Beekeper",
+    "award.bee_nests_mined.desc": "Bee Nests mined",
+    "award.bee_nests_mined.title": "Beekeper",
     "award.tnt_used.desc": "TNT placed",
     "award.tnt_used.title": "Kabooom",
 }
